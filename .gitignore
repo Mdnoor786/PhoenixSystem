@@ -1,3 +1,9 @@
+# Config files, logs and stuff
+log.txt
+
+# Session files
+*.session
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +133,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VS code and shit
+*.pyc
+.idea/
+.project
+.pydevproject
+.directory
+.vscode
+
+# random logs file
+.txt
+
+
+PhoenixSystem/elevated_users.json
+config.py
+*.sqlite3
